@@ -63,3 +63,5 @@ echo
 echo "Final permissions for secure_vault files:"
 ls -l "$VAULT_DIR"
 
+
+
